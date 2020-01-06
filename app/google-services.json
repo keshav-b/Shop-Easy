@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036104454414",
+    "firebase_url": "https://ramco-64435.firebaseio.com",
+    "project_id": "ramco-64435",
+    "storage_bucket": "ramco-64435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036104454414:android:97039437abf9e94e45075f",
+        "android_client_info": {
+          "package_name": "com.example.priyanka.mapsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036104454414-djad4lp1blcc84l9s2p34gjf6l5r4210.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priyanka.mapsdemo",
+            "certificate_hash": "0baa41c5553a9b499c8f61924963ff5e7b1b4558"
+          }
+        },
+        {
+          "client_id": "1036104454414-jl3s8odkblain8n9bf68f26fjcpi685e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEp_pEGH3fwWQRRrtIsVr3__837F2kUj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036104454414-jl3s8odkblain8n9bf68f26fjcpi685e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
