@@ -5,6 +5,7 @@
 ### VENDOR SIDE (1/2)
 * The vendor registers himself with our application
 * [vendor registration](https://poorvika-vendor-signup.000webhostapp.com/index1.html)
+<img src="Images/vendor_reg.png">
 
 ## IDEA 1
 <img src="Images/idea1.jpg"> 
