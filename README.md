@@ -7,14 +7,14 @@
 * [vendor registration](https://poorvika-vendor-signup.000webhostapp.com/index1.html)
 
 ## IDEA 1
-<img src="Images/idea1.png"> 
+<img src="Images/idea1.jpg"> 
 
   ### CUSTOMER SIDE
 * Shop Easy detects the user's location and sends a notification according to the retail shop he is at.
 * The notification redirects to a registration page specific to the shop he/ she is visiting, upon clicking the notification.
 
 ## IDEA 2
-<img src="Images/idea2.png"> 
+<img src="Images/idea2.jpg"> 
 
   ### CUSTOMER SIDE
 * The customer scans the QR code that redirects to the registration page <img src="Images/QR.png"> 
