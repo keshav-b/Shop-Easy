@@ -29,8 +29,8 @@
 * At the time of check ou the vendor accepts the code from the user to acquire his details
 * [vendor billing](https://vendor-billing.000webhostapp.com/)
 
-
-
+## DEMO
+<img src="Images/notify.png">  <img src="Images/reg.png">  <img src="Images/code.png">
 
 
 
