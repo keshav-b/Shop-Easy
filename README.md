@@ -10,3 +10,9 @@
 <img src="Images/QR.png">
 
 This repo contains only the android, notification part, and not the registration process.
+
+
+
+https://vendor-billing.000webhostapp.com/
+
+https://poorvika-vendor-signup.000webhostapp.com/index1.html
