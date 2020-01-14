@@ -30,7 +30,7 @@
 * [vendor billing](https://vendor-billing.000webhostapp.com/)
 
 ## DEMO
-<img src="Images/demo.gif">
+<img src="demo.gif">
 
 
 
