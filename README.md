@@ -17,7 +17,8 @@
 <img src="Images/idea2.jpg"> 
 
   ### CUSTOMER SIDE
-* The customer scans the QR code that redirects to the registration page <img src="Images/QR.png"> 
+* The customer scans the QR code that redirects to the registration page 
+<img src="Images/QR.png"> 
 
 ## REGISTRATION PROCESS
 * The user goes through a quick registration process and he/ she is exposed to a bunch of offers give by the shop he/ she is at.
