@@ -30,7 +30,9 @@
 * [vendor billing](https://vendor-billing.000webhostapp.com/)
 
 ## DEMO
-<img src="demo.gif">
+<video width="320" height="240" controls>
+  <source src="Images/demo.mp4" type="video/mp4">
+</video>
 
 
 
