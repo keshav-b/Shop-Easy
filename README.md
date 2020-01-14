@@ -30,7 +30,7 @@
 * [vendor billing](https://vendor-billing.000webhostapp.com/)
 
 ## DEMO
-<img src="Images/notify.png" height=100>  <img src="Images/reg.png">  <img src="Images/code.png">
+<img src="Images/demo.png"> 
 
 
 
