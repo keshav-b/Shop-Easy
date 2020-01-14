@@ -7,9 +7,9 @@
 * A unique code is also generated which when used at checkout, can reduce the interaction between the cashier adn the customer.
 
 
-<img src="Images/QR.png">
+<img src="Images/QR.png"> 
 
-This repo contains only the android, notification part, and not the registration process.
+
 
 
 
