@@ -29,10 +29,6 @@
 * At the time of check ou the vendor accepts the code from the user to acquire his details
 * [vendor billing](https://vendor-billing.000webhostapp.com/)
 
-## DEMO
-<video width="320" height="240" controls>
-  <source src="Images/demo.mp4" type="video/mp4">
-</video>
 
 
 
